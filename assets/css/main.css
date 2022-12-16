@@ -2739,7 +2739,7 @@ input, select, textarea {
 
 		.main .container {
 			padding: 5em 2.5em 8em 2.5em ;
-			background: rgba(255, 255, 255, 0.95);
+			background: rgba(255, 255, 255, 1);
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
@@ -2802,7 +2802,7 @@ input, select, textarea {
 		}
 
 		#header header {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 1);
 			display: inline-block;
 			padding-bottom: 8em;
 			vertical-align: middle;
@@ -2837,7 +2837,7 @@ input, select, textarea {
 			}
 
 		#header .container {
-			background: rgba(255, 255, 255, 0.95);
+			background: rgba(255, 255, 255, 1);
 			bottom: 0;
 			left: 50%;
 			margin-left: -17.5em;
@@ -2864,13 +2864,13 @@ input, select, textarea {
 
 		#footer .container {
 			padding: 5em 2.5em 3em 2.5em ;
-			background: rgba(255, 255, 255, 0.95);
+			background: rgba(255, 255, 255, 1);
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 1);
 			left: 0;
 			position: absolute;
 			text-align: center;
@@ -2896,7 +2896,7 @@ input, select, textarea {
 			}
 
 				#footer footer .copyright li {
-					border-left: solid 1px rgba(255, 255, 255, 0.2);
+					border-left: solid 1px rgba(255, 255, 255, 1);
 					display: inline-block;
 					margin: 0 0 0 1em;
 					padding: 0 0 0 1em;
